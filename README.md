@@ -6,7 +6,7 @@ Astronomy is the study of everything in the universe beyond Earth’s atmosphere
 
 
 
-![galaxy](https://github.com/user-attachments/assets/3ad541a8-3013-497f-be75-6b9464bbc8b7)
+   ![galaxy](https://github.com/user-attachments/assets/3ad541a8-3013-497f-be75-6b9464bbc8b7)
    
 
 3. Dataset Overview 📊
