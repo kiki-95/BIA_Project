@@ -10,6 +10,22 @@ Astronomy is the study of everything in the universe beyond Earth’s atmosphere
    
 
 3. Dataset Overview 📊
-The dataset used in this project contains 100,000 observations of space captured by the Sloan Digital Sky Survey (SDSS). Each data point consists of 17 feature columns and 1 class column, which identifies the object as either a star, galaxy, or quasar.
+   The dataset used in this project contains 100,000 observations of space captured by the Sloan Digital Sky Survey (SDSS). Each data point consists of 17 feature columns and 1 class column, which identifies the 
+   object as either a star, galaxy, or quasar.
 
   Note: The SDSS data is publicly available. Please refer to the citation at the end for more information
+
+
+  📊 Models Used
+  The following machine learning models were implemented and compared:
+
+   Decision Tree
+   Random Forest
+   K-Nearest Neighbors (KNN)
+   Support Vector Machines (SVM)
+   Gradient Boosting
+   AdaBoost
+   XGBoost
+
+
+XGBoost demonstrated superior performance in terms of accuracy, precision, and recall compared to other models.
