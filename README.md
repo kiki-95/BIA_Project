@@ -18,14 +18,13 @@ Astronomy is the study of everything in the universe beyond Earth’s atmosphere
 
   📊 Models Used
   The following machine learning models were implemented and compared:
-
-   Decision Tree
-   Random Forest
-   K-Nearest Neighbors (KNN)
-   Support Vector Machines (SVM)
-   Gradient Boosting
-   AdaBoost
-   XGBoost
+       1. Decision Tree
+       2. Random Forest
+       3. K-Nearest Neighbors (KNN)
+       4. Support Vector Machines (SVM)
+       5. Gradient Boosting
+       6. AdaBoost
+       7.  XGBoost
 
 
 XGBoost demonstrated superior performance in terms of accuracy, precision, and recall compared to other models.
