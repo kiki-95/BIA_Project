@@ -16,8 +16,8 @@ Astronomy is the study of everything in the universe beyond Earth’s atmosphere
   Note: The SDSS data is publicly available. Please refer to the citation at the end for more information
 
 
-  **📊 Models Used**
-  The following machine learning models were implemented and compared:
+  4. **📊 Models Used**
+      The following machine learning models were implemented and compared:
        1. Decision Tree
        2. Random Forest
        3. K-Nearest Neighbors (KNN)
