@@ -42,7 +42,7 @@ This project uses **machine learning models** to classify celestial objects base
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### Data Preprocessing
 - Handle missing values and outliers
@@ -80,7 +80,7 @@ This project uses **machine learning models** to classify celestial objects base
 
 ## 🌐 Streamlit App
 
-An interactive web application has been developed to:
+Have build an interactive web application:
 - Upload spectral data for classification
 - Visualize predictions with confidence scores
 
