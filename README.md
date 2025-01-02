@@ -1,7 +1,6 @@
 # 🌌 Stellar Object Classification Project
 
-This project focuses on classifying celestial objects—**stars**, **galaxies**, and **quasars**—based on their spectral characteristics. By leveraging machine learning, we analyze spectral data to extract meaningful insights, enabling a deeper understanding of the universe's structure and evolution.
-
+This project focuses on classifying celestial objects—**stars**, **galaxies**, and **quasars**—based on their spectral characteristics. By leveraging machine learning, we analyze spectral data to extract meaningful insights.
 ---
 
 ## 📋 Table of Contents
@@ -21,8 +20,7 @@ This project focuses on classifying celestial objects—**stars**, **galaxies**,
 
 Astronomy involves studying objects beyond Earth's atmosphere, such as stars, galaxies, and quasars. Spectral classification is a crucial tool for understanding the properties of these objects, including their composition, temperature, and magnetic fields. 
 
-This project uses **machine learning models** to classify celestial objects based on their spectral data, contributing to a deeper comprehension of the cosmos.
-
+This project uses **machine learning models** to classify celestial objects based on their spectral data. 
 ---
 
 ## 🗂 Dataset
