@@ -1,4 +1,4 @@
-# 🌌 Stellar Object Classification Project
+## 🌌 Stellar Object Classification Project
 
 This project focuses on classifying celestial objects—**stars**, **galaxies**, and **quasars**—based on their spectral characteristics. By leveraging machine learning, we analyze spectral data to extract meaningful insights.
 ---
