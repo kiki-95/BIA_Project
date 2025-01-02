@@ -58,6 +58,9 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
 
 ### Deployment
 - **Interactive Streamlit App** for classification and visualization
+- ## 🌐 Streamlit App
+  Local URL: http://localhost:8502  
+  Network URL: http://192.168.1.9:8502
 
 ---
 
@@ -74,9 +77,7 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
 
 ---
 
-## 🌐 Streamlit App
-  Local URL: http://localhost:8502  
-  Network URL: http://192.168.1.9:8502
+
 
 ### To Run the App Locally:
 1. Install dependencies:
@@ -86,5 +87,5 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
 Prerequisites
 Python 3.8 or higher
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
-🌌 Acknowledgments
+##🌌 Acknowledgments
 The dataset is sourced from the Sloan Digital Sky Survey (SDSS), which provides publicly available astronomical data. Please refer to their official website for citation details.
