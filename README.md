@@ -1,6 +1,6 @@
 ## 🌌 Stellar Object Classification Project
 
-This project focuses on classifying celestial objects—**stars**, **galaxies**, and **quasars**—based on their spectral characteristics. By leveraging machine learning, we analyze spectral data to extract meaningful insights.
+This project focuses on classifying celestial objects—stars, galaxies, and quasars—based on their spectral characteristics. By leveraging machine learning, we analyze spectral data to extract meaningful insights.
 ---
 
 ## 📋 Table of Contents
@@ -20,7 +20,7 @@ This project focuses on classifying celestial objects—**stars**, **galaxies**,
 
 Astronomy involves studying objects beyond Earth's atmosphere, such as stars, galaxies, and quasars. Spectral classification is a crucial tool for understanding the properties of these objects, including their composition, temperature, and magnetic fields. 
 
-This project uses **machine learning models** to classify celestial objects based on their spectral data. 
+This project uses machine learning models to classify celestial objects based on their spectral data.
 ---
 
 ## 🗂 Dataset
@@ -54,7 +54,7 @@ This project uses **machine learning models** to classify celestial objects base
 - **Algorithms Used**: 
   - Logistic Regression, Random Forest, Support Vector Machines (SVM)
   - Decision Tree, K-Nearest Neighbors (KNN), Gradient Boosting
-  - **XGBoost** (best performer)
+  - XGBoost (best performer)
 - **Evaluation Metrics**: 
   - Accuracy, Precision, Recall, F1-Score
 
@@ -66,9 +66,9 @@ This project uses **machine learning models** to classify celestial objects base
 ## 📊 Results
 
 - **Key Metrics**: 
-  - Accuracy: **94.41%**
-  - Precision: **94.50%**
-  - Recall: **94.41%**
+  - Accuracy: 94.41%
+  - Precision: 94.50%
+  - Recall: 94.41%
 - **Insights**:
   - Stars exhibit distinct spectral patterns compared to galaxies and quasars
   - Quasars are unique due to their high redshift and luminosity
@@ -77,23 +77,16 @@ This project uses **machine learning models** to classify celestial objects base
 ---
 
 ## 🌐 Streamlit App
-  Local URL: http://localhost:8502
+  Local URL: http://localhost:8502  
   Network URL: http://192.168.1.9:8502
 
 ### To Run the App Locally:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-Run the command:
-
-streamlit run app/streamlit_app.py
-
 ⚙️ Setup and Usage
 Prerequisites
-
-    Python 3.8 or higher
-    Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
-
-    🌌 Acknowledgments
-
+Python 3.8 or higher
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
+🌌 Acknowledgments
 The dataset is sourced from the Sloan Digital Sky Survey (SDSS), which provides publicly available astronomical data. Please refer to their official website for citation details.
