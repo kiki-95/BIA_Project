@@ -68,9 +68,9 @@ This project uses **machine learning models** to classify celestial objects base
 ## 📊 Results
 
 - **Key Metrics**: 
-  - Accuracy: **XX%**
-  - Precision: **XX%**
-  - Recall: **XX%**
+  - Accuracy: **94.41%**
+  - Precision: **94.50%**
+  - Recall: **94.41%**
 - **Insights**:
   - Stars exhibit distinct spectral patterns compared to galaxies and quasars
   - Quasars are unique due to their high redshift and luminosity
@@ -79,10 +79,8 @@ This project uses **machine learning models** to classify celestial objects base
 ---
 
 ## 🌐 Streamlit App
-
-Have build an interactive web application:
-- Upload spectral data for classification
-- Visualize predictions with confidence scores
+  Local URL: http://localhost:8502
+  Network URL: http://192.168.1.9:8502
 
 ### To Run the App Locally:
 1. Install dependencies:
