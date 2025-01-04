@@ -59,8 +59,8 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
 ### Deployment
 - **Interactive Streamlit App** for classification and visualization
 - ## 🌐 Streamlit App
-  Local URL: http://localhost:8502  
-  Network URL: http://192.168.1.9:8502
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.9:8501
 
 ---
 
