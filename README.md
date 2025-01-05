@@ -37,6 +37,18 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
   - **17 feature columns** + 1 class column (object type)
 
 ---
+🛠️ Technologies Used
+---------------------
+
+-   **Python**
+-   **Streamlit**
+-   **Scikit-Learn**
+-   **XGBoost**
+-   **Pandas, NumPy**
+-   **Matplotlib, Seaborn**
+
+* * * * *
+
 
 ## Methodology
 
@@ -91,15 +103,6 @@ The table below compares the performance of the models:
 ------------
 
 **Khyathi Kotian**
-
-
-
-### To Run the App Locally:
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-⚙️ Setup and Usage
-Prerequisites
 Python 3.8 or higher
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
 ##🌌 Acknowledgments
