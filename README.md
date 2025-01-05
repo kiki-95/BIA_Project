@@ -103,8 +103,7 @@ The table below compares the performance of the models:
 ------------
 
 **Khyathi Kotian**
-Python 3.8 or higher
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
+
 ##🌌 Acknowledgments
 
 The dataset is sourced from the Sloan Digital Sky Survey (SDSS), which provides publicly available astronomical data. Please refer to their official website for citation details.
