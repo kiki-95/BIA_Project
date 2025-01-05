@@ -66,14 +66,26 @@ Astronomy involves studying objects beyond Earth's atmosphere, such as stars, ga
 
 ## 📊 Results
 
-- **Key Metrics**: 
-  - Accuracy: 94.41%
-  - Precision: 94.50%
-  - Recall: 94.41%
+
+The table below compares the performance of the models:
+
+| Model | Accuracy | Precision | Recall |F1 Score |
+| --- | --- | --- | --- | --- |
+| Decision Tree | 95% | 95% | 95% | 95% |
+| Random Forest | 95% | 95% | 95% | 95% |
+| KNN | 89% | 89% | 89% | 89% |
+| SVM | 93% | 93% | 93% | 92% |
+| **Gradient Boosting** | 96% | 96% | 96% | 96% |
+| AdaBoost | 85% | 80% | 85% | 82% |
+| **XGBoost** | **97%** | **97%** | **97%** | **97%** |
+
+* * * * *
+
 - **Insights**:
   - Stars exhibit distinct spectral patterns compared to galaxies and quasars
   - Quasars are unique due to their high redshift and luminosity
 - **Best Model**: XGBoost outperformed other models in accuracy, precision, and recall
+- 
 
 ---
 
