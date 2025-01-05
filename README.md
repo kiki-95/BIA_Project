@@ -85,9 +85,12 @@ The table below compares the performance of the models:
   - Stars exhibit distinct spectral patterns compared to galaxies and quasars
   - Quasars are unique due to their high redshift and luminosity
 - **Best Model**: XGBoost outperformed other models in accuracy, precision, and recall
-- 
 
 ---
+👩‍💻 Author
+------------
+
+**Khyathi Kotian**
 
 
 
